@@ -137,5 +137,5 @@ Start an issue or submit a PR.
 ---
 
 ## 🙌 Connect with me:
-Github: # pvk-96
-E-mail: # praneethvarmakopperla@gmail.com
+## Github: pvk-96
+## E-mail: praneethvarmakopperla@gmail.com
