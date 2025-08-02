@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ─────────────────────────────────────────────
-# Linux System Health Checker (v1.1)
+# Linux System Health Checker (v1.0)
 # Author: Praneeth Varma K
 # Date: 25/07/2025
 # Description: System info and resource usage report with enhanced formatting
