@@ -1,0 +1,26 @@
+[1;34m===== System Health Checker =====[0m
+Host: PVarma  |  User: pvk-96  |  Date: 2025-08-02 10:43 AM
+--------------------------------------------
+[1;34m--- System Overview ---[0m
+OS: "Arch Linux"
+Kernel: 6.13.5-arch1-1
+Shell: /usr/bin/bash
+Terminal: xterm-256color
+CPU: Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz
+GPU: Intel Corporation Skylake GT2 [HD Graphics 520] (rev 07)
+Desktop Env/WM: KDE
+[0;32m--- Uptime ---[0m
+up 1 hour, 25 minutes
+[0;32m--- Memory Usage ---[0m
+RAM Usage: [0;32m39% used[0m
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       5.9Gi       5.9Gi       940Mi       4.8Gi       9.4Gi
+Swap:          4.1Gi       1.6Gi       2.4Gi
+[0;32m--- Disk Usage (/ Partition) ---[0m
+Disk Usage: [0;32m51% used[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  666G  317G  316G  51% /
+[0;32m--- CPU Load (1 min average) ---[0m
+Load Average: [1;33m2.04[0m
+[0;32m--- Top 5 Memory-Consuming Processes ---[0m
+[1;34m===== End of Report =====[0m
