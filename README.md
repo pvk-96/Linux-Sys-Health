@@ -103,8 +103,13 @@ sys-health/
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
+| Base Output | -a | -l | -h |
+|--------------------|----------------|-----------|---------------|
+| ![base](ss/base.png) | ![-a](ss/-a.png) | ![-l](ss/-l.png) | ![-h](ss/-h.png) |
+
+---
 ## 📝 License
 
 This project is licensed under the MIT License — feel free to use, modify, and distribute it.
